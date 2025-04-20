@@ -4,6 +4,6 @@ GAN
 L2reg
 autoencoder
 overfitting
-stock price LSTM GRU
-stock price RNN and pytorch
+stock_price_LSTM_GRU
+stock_price_RNN_pytorch
 transfer_learning
